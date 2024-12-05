@@ -5,41 +5,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ocean Homepage</title>
     <style>
-        /* Ensure the page covers the full height */
+        /* Your existing styling */
         html, body {
             height: 100%;
             margin: 0;
             font-family: Arial, sans-serif;
         }
-
-        /* Container for centering content */
         .container {
             display: flex;
-            justify-content: center;  /* Center horizontally */
-            align-items: center;      /* Center vertically */
+            justify-content: center;
+            align-items: center;
             height: 100%;
             background: url('https://raw.githubusercontent.com/Mohammed24N/ps3-forensics1/main/the%20ocean.jpg') no-repeat center center fixed;
             background-size: cover;
         }
-
-        /* Style the intro text */
         .intro {
             text-align: center;
-            background-color: rgba(0, 0, 0, 0.5); /* Transparent black background for readability */
+            background-color: rgba(0, 0, 0, 0.5);
             color: white;
             padding: 20px;
             border-radius: 10px;
             max-width: 600px;
             margin: 20px;
         }
-
-        h1 {
-            font-size: 36px;
-            margin: 0;
+        .enter-button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 32px;
+            font-size: 18px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+            text-decoration: none;
         }
-
-        p {
-            font-size: 20px;
+        .enter-button:hover {
+            background-color: #45a049;
         }
     </style>
 </head>
@@ -48,7 +49,10 @@
     <div class="container">
         <div class="intro">
             <h1>Welcome to Data Acquisition from a PS3 console hard drive!</h1>
-            <p>Here we will explore what artefacts we can pull from a Sony Playstation 3 Hard Drive.</p>
+            <p>Here we will explore what artefacts we can pull from a Sony Playstation 3 Hard Drive and where we can find them.</p>
+            
+            <!-- Link to page2.html -->
+            <a href="page2.html" class="enter-button">Enter</a>
         </div>
     </div>
 
