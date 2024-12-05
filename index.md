@@ -8,4 +8,4 @@ Here we will explore what artifacts we can pull from a Sony PlayStation 3 Hard D
 
 To explore more, click the button below to dive into the details of PS3 forensics.
 
-[Enter](page2.md)
+[Enter](foldername/page2.md)
