@@ -1,11 +1,16 @@
-# Welcome to Data Acquisition from a PS3 Console Hard Drive!
+title: Artefacts found on a Sony Playstation 3 console
 
-Here we will explore what artifacts we can pull from a Sony PlayStation 3 Hard Drive and where we can find them.
 
-![Ocean Background](https://raw.githubusercontent.com/Mohammed24N/ps3-forensics1/main/the%20ocean.jpg)
+# Artefacts found on a Sony Playstation 3 console
 
-## Get Started
+Information on artefacts that are stored on a PS3 console.
 
-To explore more, click the button below to dive into the details of PS3 forensics.
+## Main Information
+- **Artefacts found**
+  [Learn more](page2.md)
+- **How to Perform a Data Acquistion**
+- **tools that students use to analyse data processed**
 
-[Enter](page2.md)
+## Additional Information 
+- **Tools Download**
+- **Digital Forensics Processing Forms**
